@@ -1,0 +1,16 @@
+PODS:
+  - React (0.4.4):
+    - React/Core (= 0.4.4)
+  - React/Core (0.4.4)
+
+DEPENDENCIES:
+  - React (from `node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: node_modules/react-native
+
+SPEC CHECKSUMS:
+  React: 5add73872cae28e46a7b5eae712f9390e983cc39
+
+COCOAPODS: 0.39.0
